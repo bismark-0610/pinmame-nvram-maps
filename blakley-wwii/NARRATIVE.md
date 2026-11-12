@@ -208,6 +208,13 @@ possible. The 1945 morning reports at NPRC would settle it.
 
 ## 7. Rest of 1945 (not yet documented)
 
+[FAMILY] The family reports he left the Army as a **Staff Sergeant**. Every document found so
+far (through 23 Nov 1944) shows him as a Private, so the promotions came after that and are not
+yet documented. [CONTEXT] Under the 1944 infantry organization a Staff Sergeant was normally a
+**rifle squad leader**. Rifle companies with heavy losses promoted experienced survivors
+quickly. The 1945 Company L morning reports (NPRC) record each step (Pfc, Cpl/Sgt, S/Sgt) with
+dates, and his discharge paper (WD AGO 53-55) gives his final grade.
+
 The National Archives Catalog has no digitized 1945 morning reports. I checked, and no 1945
 rolls exist in the series online. [CONTEXT] In 1945 the 1st Infantry Division attacked out of
 the Bulge in January, pushed through the Siegfried Line, crossed the Roer in late February,
