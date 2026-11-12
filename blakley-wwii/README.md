@@ -31,6 +31,7 @@ separate from historical context.
 | [`evidence/`](evidence/) | Reduced-size, contrast-enhanced copies of the 15 key pages (the full-resolution TIFFs are about 15 MB each and are not committed) |
 | [`hospital_record_1945.md`](hospital_record_1945.md), [`hospital_record_1945_raw.txt`](hospital_record_1945_raw.txt) | His 1945 hospital admission record, raw and decoded |
 | [`tools/hosad1945.py`](tools/hosad1945.py) | Looks up a serial number in the 1945 hospital admission data file |
+| [`tools/shrink_pdf.py`](tools/shrink_pdf.py) | Makes a PDF (e.g. the letters book) smaller by downsampling over-sized photos to the resolution they are printed at |
 | [`nara_mr.py`](nara_mr.py) | Search, read and download tool (Step 2) |
 | [`tools/dump.py`](tools/dump.py) | Prints the catalog OCR text of a range of images in a roll |
 | [`tools/reocr.py`](tools/reocr.py) | Second-opinion OCR with fuzzy name and serial matching for faint pages |
