@@ -33,6 +33,7 @@ separate from historical context.
 | [`tools/hosad1945.py`](tools/hosad1945.py) | Looks up a serial number in the 1945 hospital admission data file |
 | [`tools/shrink_pdf.py`](tools/shrink_pdf.py) | Makes a PDF (e.g. the letters book) smaller by downsampling over-sized photos to the resolution they are printed at |
 | [`tools/pdf_to_docx.py`](tools/pdf_to_docx.py) | Converts a PDF back into an editable Word document (uses pdf2docx) |
+| [`tools/split_pdf.py`](tools/split_pdf.py) | Splits a large PDF into parts under a page and size limit for uploading to Claude |
 | [`nara_mr.py`](nara_mr.py) | Search, read and download tool (Step 2) |
 | [`tools/dump.py`](tools/dump.py) | Prints the catalog OCR text of a range of images in a roll |
 | [`tools/reocr.py`](tools/reocr.py) | Second-opinion OCR with fuzzy name and serial matching for faint pages |
