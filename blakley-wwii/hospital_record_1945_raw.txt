@@ -1,0 +1,39 @@
+1 record(s) for 34864047 in SGO.1945.PU.txt
+
+RAW: '03486404734864047522514300-9104570400110493949201153983113-   2069-  0370376-55037016-   \\'
+  Service Number                                 1-9  [034864047] 
+  Service Number                                10-17 [34864047] 
+  Sample                                        18-18 [5] 
+  Rank                                          19-19 [2] 
+  Age                                           20-21 [25] 
+  Race                                          22-22 [1] 
+  Length of Service                             23-23 [4] 
+  Arm of Service                                24-25 [30] 
+  AAF Status                                    26-26 [0] 
+  Station/Day of Admission                      27-30 [-910] 
+  Month of Admission                            31-31 [4] 
+  Year of Admission                             32-32 [5] 
+  Last Treatment Facility                       33-33 [7] 
+  Special Class of Case                         34-34 [0] 
+  Type of Case                                  35-35 [4] 
+  Type of Admission                             36-36 [0] 
+  1st Diagnosis                                 37-40 [0110] Wound(s), penetrating (point of entrance only: includes incised, puncture or stab wound) with no nerve or artery involvement
+  1st Anatomical Location                       41-44 [4939] Thorax, generally
+  1st Operation                                 45-47 [492] Penicillin therapy (treatment with penicillin)
+  2nd Diagnosis                                 48-51 [0115] Wound(s), perforating (points of entrance and exit) with no nerve or artery involvement
+  2nd Anatomical Location                       52-55 [3983] Fingers, generally
+  2nd Operation                                 56-58 [113] Closure of wound, delayed, or Suture secondary of wound (delayed closure)
+  3rd Diagnosis                                 59-62 [-   ] 
+  Causative Agent                               63-65 [206] Artillery Shell, Other or Unspec to Blast, Fragments, Debris
+  Circumstances                                 66-66 [9] 
+  Final Result                                  67-69 [-  ] 
+  Total Days (non-effective)                    70-72 [037] 
+  Overseas Days                                 73-75 [037] 
+  Type of Disposition                           76-76 [6] 
+  Field of Cause of Disposition                 77-77 [-] 
+  Month of Disposition                          78-78 [5] 
+  Year of Disposition                           79-79 [5] 
+  Hospital Days                                 80-82 [037] 
+  Unit Number/Days in last Gen or Conval Hosp   83-85 [016] 
+  Specialized Treatment                         86-87 [- ] 
+  General and Convalescent Hospital             88-89 [  ] 

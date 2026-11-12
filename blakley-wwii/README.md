@@ -15,7 +15,8 @@ separate from historical context.
 | Path | Fort Bragg Reception Center (23 May 44) → IRTC Camp Croft, S.C. (Co C 36th ITB, then Co C 33rd ITB) → AGF Repl Depot #1, Fort Meade (Oct 44) → shipment GK-555(a), Inf Co "E" → 11th, 17th and 3rd Replacement Depots → Co L, 16th Inf, near Heistern, Germany |
 | Family story check | He was **not** a Normandy/D-Day replacement. He was still a recruit in May 1944 and joined the regiment in Germany on 21 Nov 1944 |
 | Nov–Dec 1944 | No entry naming him after joining, which normally means he stayed on duty. Company was in the Hürtgen/Langerwehe fighting, then the northern shoulder of the Bulge at Weywertz, Belgium |
-| 1945 | Not online. Needs NPRC (see next steps in the narrative) |
+| April 1945 | **Wounded by artillery shell fragments** (chest; through-and-through wound of the fingers), treated at the 16th General Hospital, returned to duty May 1945 after 37 days. From the Hospital Admission Card Files; see [hospital_record_1945.md](hospital_record_1945.md) |
+| 1945 morning reports | Not online. Needs NPRC (see next steps in the narrative) |
 
 ## Files
 
@@ -28,6 +29,8 @@ separate from historical context.
 | [`manifest_key_pages.csv`](manifest_key_pages.csv) | The 90 page images downloaded: key orders plus every Co L page for 23 Nov – 31 Dec 1944 |
 | [`reocr_company_L_check.csv`](reocr_company_L_check.csv) | Results of the second, independent OCR pass over the Company L pages |
 | [`evidence/`](evidence/) | Reduced-size, contrast-enhanced copies of the 15 key pages (the full-resolution TIFFs are about 15 MB each and are not committed) |
+| [`hospital_record_1945.md`](hospital_record_1945.md), [`hospital_record_1945_raw.txt`](hospital_record_1945_raw.txt) | His 1945 hospital admission record, raw and decoded |
+| [`tools/hosad1945.py`](tools/hosad1945.py) | Looks up a serial number in the 1945 hospital admission data file |
 | [`nara_mr.py`](nara_mr.py) | Search, read and download tool (Step 2) |
 | [`tools/dump.py`](tools/dump.py) | Prints the catalog OCR text of a range of images in a roll |
 | [`tools/reocr.py`](tools/reocr.py) | Second-opinion OCR with fuzzy name and serial matching for faint pages |

@@ -187,7 +187,26 @@ of 1944. **Confidence is medium, not high.** Several December frames, especially
 are faint, creased and water-damaged, and both OCR engines lose text on them. All 51 December
 and 24 November–30 November page images are downloaded, so a human can read each one.
 
-## 6. 1945 and after (not yet documented)
+## 6. Wounded, April 1945
+
+[DOC] The Army Surgeon General's **Hospital Admission Card Files** (searched by serial
+number; details in [`hospital_record_1945.md`](hospital_record_1945.md)) contain one 1945
+record for 34864047, an infantry enlisted man aged 25:
+
+- **Admitted April 1945** as a **battle casualty**, wounded by **artillery shell fragments**.
+- **Penetrating wound of the chest (thorax)** and a **perforating (through-and-through)
+  wound of the fingers**, with no nerve or artery involvement.
+- Treated with **penicillin** and delayed closure of the wound. His last hospital was the
+  **16th General Hospital**.
+- **37 days** in hospital, then **returned to duty in May 1945**.
+
+[CONTEXT] In April 1945 the 1st Division was fighting in central Germany, mainly the Harz
+Mountains. It entered Czechoslovakia in early May. [INFERENCE] The family's "wounded in
+Czechoslovakia" is therefore probably the April wound in Germany, remembered together with
+where his war ended. A second, lighter wound treated without hospital admission is also
+possible. The 1945 morning reports at NPRC would settle it.
+
+## 7. Rest of 1945 (not yet documented)
 
 The National Archives Catalog has no digitized 1945 morning reports. I checked, and no 1945
 rolls exist in the series online. [CONTEXT] In 1945 the 1st Infantry Division attacked out of
@@ -201,7 +220,8 @@ was with the company for all of this is not yet known.**
 ## What to do next
 
 1. **1945 morning reports (NPRC, St. Louis).** Ask for Company L, 16th Infantry, January–June
-   1945 (or later), and give the serial number **34864047**. An independent researcher at NPRC
+   1945 (or later), and give the serial number **34864047**. **April and May 1945 matter
+   most:** they should give the exact date and place he was wounded and when he rejoined. An independent researcher at NPRC
    can scan these. Searching by serial number speeds things up a lot.
 2. **His discharge paper.** Many North Carolina veterans recorded their WD AGO 53-55
    (Honorable Discharge / Separation Qualification Record) with the **county Register of
@@ -211,9 +231,8 @@ was with the company for all of this is not yet known.**
    automated access from this environment (HTTP 403). Search it in a normal browser at
    aad.archives.gov for serial **34864047**. It should give his induction date and place,
    birth year, education and civilian occupation.
-4. **Hospital admission cards.** The AAD "WWII Hospital Admission Card Files" are searchable
-   by serial number. They would show any wound or illness that sent him to a hospital,
-   including in 1945.
+4. **Hospital admission cards: done.** One 1945 record was found (section 6). The 1944 file has
+   no record for him.
 5. **Awards.** Riflemen who saw combat were normally awarded the Combat Infantryman Badge by
    regimental general orders, and many later received the Bronze Star for the CIB. The 16th
    Infantry Regiment Association and the First Division Museum at Cantigny (which holds 1st
